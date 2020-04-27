@@ -1,0 +1,32 @@
+.brand{
+    background: #3a86b9;
+}
+.brand-text{
+    color: #3a86b9;
+}
+.pizza{
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    display: block;
+    position: relative;
+}
+form{
+    max-width: 460px;
+    margin: 20px auto;
+    padding: 20px;
+}
+.center{
+    color: #3a86b9;
+}
+.header-title{
+    color: #3a86b9;
+    font-size: x-large;
+}
+.title{
+    color: #3a86b9;
+    text-align: center;
+}
+.info{
+    color: #3a86b9 !important; 
+}
